@@ -4,7 +4,7 @@
 The Heart Attack Prediction Project is designed to assess the risk of heart attacks based on various medical attributes using a machine learning model. This project integrates a predictive model into a user-friendly website to help users evaluate their heart health risk.
 
 ### Features
-Predictive Analysis: Utilizes a Support Vector Machine (SVM) model to predict heart attack risk based on user input.
+Predictive Analysis: Utilizes a Logistic regression model to predict heart attack risk based on user input.
 Interactive Chatbot: Provides guidance and information on heart health via an advanced chatbot integrated using OpenAI's API.
 Secure User Authentication: Ensures that access to the chatbot and prediction features is secure and user-specific.
 Responsive Web Design: Crafted using Hono for backend, Bootstrap for responsive design, and Alpine.js for frontend dynamics.
