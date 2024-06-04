@@ -43,7 +43,7 @@ Open your browser and visit http://localhost:3000 to view the application.
 Login/Signup: Create an account and log in.
 Enter Medical Details: Input your medical details like age, cholesterol levels, etc.
 Get Prediction: Submit your details to receive a heart attack risk assessment.
-Chat with Bot: Use the chatbot for additional information and guidance.
+Chat with Dana: Create an assistant on openai and then call the Assistant ID in the backend.
 
 ### Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential changes or additions.
